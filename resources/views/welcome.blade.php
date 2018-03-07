@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    KONTOL
                 </div>
 
                 <div class="links">

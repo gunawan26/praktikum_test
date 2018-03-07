@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/home',function(){
+    return "hali";
+});
+Route::any('users/{id}', function ($id) {
+    return "test";
+});
+
